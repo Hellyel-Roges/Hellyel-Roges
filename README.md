@@ -2,7 +2,6 @@
 Hi! My name is **Hellyel Roges dos Passos Ambrozio Pereira**.
 <br>
 And I'm currently studying **Computer Science** at the *Universidade Católica de Santos*, Brazil.
-
 ### ✨ Interests
 I'm deeply interested in:
 - **Data Science**
@@ -32,7 +31,7 @@ I'm deeply interested in:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hellyel-Roges&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hellyel-Roges&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyel-roges&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyel-roges&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hellyel-Roges&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
