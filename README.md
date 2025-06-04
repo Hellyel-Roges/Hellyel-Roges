@@ -19,6 +19,7 @@ I'm deeply interested in:
 - I’m a programmer who prefers **iced tea** over coffee.
 - I love listening to **music while coding**.
 - I enjoy learning and building things that matter.
+- I love playing guitar and singing in my free time. I also enjoy playing games!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hellyel_passos) 
