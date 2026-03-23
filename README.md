@@ -7,7 +7,8 @@ I'm deeply interested in:
 - **Data Science**
 - **Data Analysis**
 - **Artificial Intelligence**
-- **Deep Learning**
+- **Machine/Deep Learning**
+- **Neural Networks**
 
 ### 🎯 Goals
 - Become a **scientist** in the field of computing.
