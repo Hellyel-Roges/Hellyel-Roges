@@ -56,12 +56,15 @@ I'm deeply interested in:
 
 # 📊 GitHub Stats:
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hellyel-Roges&theme=github_dark" alt="Hellyel's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hellyel-Roges&theme=github_dark" alt="Hellyel's Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hellyel-Roges&theme=github-dark&border=30363d" alt="Hellyel's GitHub Streak" />
+</div>
 
-![Hellyel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hellyel-Roges&theme=blue_navy&show_icons=true&hide_border=true&count_private=true&v=1)
-
-![Hellyel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellyel-Roges&layout=compact&theme=blue_navy&hide_border=true&v=1)
-
-![Hellyel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hellyel-Roges&theme=blue_navy&hide_border=true)
 <br>
 
 > *"Code is not just about syntax—it's about solving real-world problems with logic and creativity."*
